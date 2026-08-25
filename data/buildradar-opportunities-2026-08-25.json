@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "last_verified": "2026-08-25",
+  "market": "Cumming / Forsyth County / North Atlanta",
+  "opportunities": [
+    {
+      "id": "BR-20260825-001",
+      "name": "BOLDFLEX Building 100 / Atlanta Highway Flex Space",
+      "location": "2550 Atlanta Highway, Cumming, GA 30040",
+      "stage": "Under Construction / Delivery",
+      "size_sf": 1250,
+      "value_usd": null,
+      "developer_owner": null,
+      "project_type": "Industrial Flex / Contractor Space",
+      "timing": "Advertised under construction with July 2026 completion and August 2026 occupancy; verify current availability/status",
+      "likely_trades": ["Sitework", "Concrete", "Steel", "Roofing", "HVAC", "Electrical", "Plumbing", "Doors", "Interior build-out"],
+      "priority": "MEDIUM-HIGH",
+      "reason": "A public commercial listing identifies a brand-new M1 industrial flex unit under construction at 2550 Atlanta Highway, positioned for light manufacturing, warehouse, contractor and trade use. This is a distinct small-project / tenant-improvement lead from the larger industrial developments already in the database.",
+      "source_urls": ["https://www.loopnet.com/Listing/2550-Atlanta-Highway-Hwy-Cumming-GA/39422999/", "https://www.showcase.com/2550-atlanta-highway-hwy-cumming-ga-30040/39422999"],
+      "verification_date": "2026-08-25"
+    },
+    {
+      "id": "BR-20260825-002",
+      "name": "North Point Mall Mixed-Use Redevelopment",
+      "location": "North Point Parkway / North Point Mall, Alpharetta, GA",
+      "stage": "Planned / Rezoning Decision",
+      "size_sf": 1300000,
+      "value_usd": null,
+      "developer_owner": "Jamestown and New York Life",
+      "project_type": "Mixed-use / Arena / Office / Retail / Dining / Hospitality",
+      "timing": "Alpharetta City Council vote scheduled for August 25, 2026; development proposal includes phased future construction",
+      "likely_trades": ["Demolition", "Civil", "Sitework", "Utilities", "Concrete", "Structural", "Steel", "Roofing", "HVAC", "Electrical", "Plumbing", "Fire protection", "Glazing", "Interior build-out", "Landscape", "Paving"],
+      "priority": "HIGH",
+      "reason": "Axios reports that Jamestown and New York Life are seeking approval for a 100-acre transformation of North Point Mall with up to 1,385 apartments, 650 hotel rooms and more than 1.3 million SF of office, retail and dining space, centered on a proposed 20,000-seat arena. This is a major future commercial-construction pipeline rather than an immediate bid opportunity.",
+      "source_urls": ["https://www.axios.com/local/atlanta/2026/08/24/north-point-mall-nhl-arena-housing-rezoning-vote"],
+      "verification_date": "2026-08-25"
+    },
+    {
+      "id": "BR-20260825-003",
+      "name": "Forsyth Commercial Permit BLDGCOMM-26-0639 Status Refresh",
+      "location": "Forsyth County, GA; Parcel 107 027",
+      "stage": "Permit In Review",
+      "size_acres": 11.13,
+      "size_sf": null,
+      "value_usd": null,
+      "developer_owner": null,
+      "project_type": "Commercial",
+      "timing": "Latest public activity through August 13, 2026; verify next permit action on subsequent county refresh",
+      "likely_trades": ["Electrical", "Commercial subs", "Signage", "Fire/security"],
+      "priority": "MEDIUM",
+      "reason": "Status was rechecked against the current Forsyth County permit feed and public permit record. No duplicate was created as a new project; this record is a status-refresh companion for the existing BuildRadar opportunity.",
+      "source_urls": ["https://www.permitreporter.com/event/25465", "https://geo.forsythco.com/gis3/rest/services/Public_EnerGovPlans/Building_Permits/MapServer/0"],
+      "verification_date": "2026-08-25"
+    }
+  ]
+}
