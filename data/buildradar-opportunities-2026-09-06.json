@@ -1,0 +1,72 @@
+[
+  {
+    "id": 2026090601,
+    "title": "Yava Kitchen & Brewhouse — Fire Restoration / Reopening Work",
+    "city": "Cumming, GA",
+    "stage": "Restoration / Tenant Improvement",
+    "size": "Existing restaurant and brewery; kitchen restoration following July 2026 fire",
+    "developer": "Yava Kitchen & Brewhouse ownership",
+    "score": 97,
+    "trades": ["Restaurant TI", "HVAC", "Kitchen Ventilation", "Electrical", "Plumbing", "Fire Protection", "Kitchen Equipment", "Cleaning/Restoration", "Controls", "Finishes"],
+    "timing": "Forsyth News reported September 3, 2026 that Yava is preparing to reopen after a July kitchen fire. This creates an immediate restoration/vendor window for kitchen exhaust, HVAC, electrical, plumbing, fire-protection, equipment replacement, controls, cleaning and finish work. Confirm remaining packages directly with ownership/GC before mobilizing.",
+    "source": "Forsyth News — September 2026 reopening/restoration coverage",
+    "url": "https://www.forsythnews.com/life/food-drink/when-yava-kitchen-and-brewhouse-in-cumming-will-reopen-after-kitchen-fire-shut-it-down/",
+    "verified": "2026-09-06"
+  },
+  {
+    "id": 16,
+    "title": "The Gathering at South Forsyth",
+    "city": "South Forsyth, GA",
+    "stage": "Pre-Construction / Advancing Toward Vertical",
+    "size": "Major mixed-use development with arena, retail, hospitality and associated infrastructure",
+    "developer": "The Gathering development team / Vernon Krause",
+    "score": 99,
+    "trades": ["Site Work", "Concrete", "Structural", "Electrical", "HVAC", "Plumbing", "Fire Protection", "Low Voltage", "Security", "Landscaping"],
+    "timing": "Forsyth News reported on September 6, 2026 that the project has taken another step toward construction and is closer to going vertical. Treat this as an early subcontractor-positioning window: identify active design/CM/GC partners, prequalify now, and monitor vertical-package releases rather than waiting for visible superstructure work.",
+    "source": "Forsyth News — September 6, 2026 development update",
+    "url": "https://www.forsythnews.com/news/growth-development/the-gathering-at-south-forsyth-is-closer-to-going-vertical-amid-renewed-talk-about-the-nhl-heres-whats-happening/",
+    "verified": "2026-09-06"
+  },
+  {
+    "id": 18,
+    "title": "Roswell Water Storage Tank Maintenance Program",
+    "city": "Roswell, GA",
+    "stage": "Bid Open",
+    "size": "10-year full-service maintenance program covering two municipal water storage tanks",
+    "developer": "City of Roswell",
+    "score": 100,
+    "trades": ["Industrial Coatings", "Tank Rehabilitation", "Inspection", "Welding/Repairs", "Pressure Washing", "Maintenance"],
+    "timing": "Still open; proposals are due September 10, 2026 at 2:00 PM ET. City procurement contact previously published for this solicitation: Julie Barnwell, Deputy Director for Strategic Procurement, 770-594-6197. Contractors should verify final addenda in the City's procurement portal before submission.",
+    "source": "City of Roswell Procurement Opportunities",
+    "url": "https://www.roswellgov.com/business/procurement-opportunities/",
+    "verified": "2026-09-06"
+  },
+  {
+    "id": 19,
+    "title": "Western Corridor Sanitary Sewer Improvements",
+    "city": "Cumming, GA",
+    "stage": "Bid Open",
+    "size": "~4,360 LF sewer + duplex pump station + electrical/control infrastructure",
+    "developer": "City of Cumming Utilities",
+    "score": 100,
+    "trades": ["Civil", "Underground Utilities", "Sewer", "Earthwork", "Electrical", "Pumping Systems", "SCADA", "Grading"],
+    "timing": "Still open; bids are due September 17, 2026. ConstructConnect shows a September 13, 2026 question deadline and confirms the scope includes the duplex wastewater pump station, controls, gravity sewer, force mains, trenchless crossings, utilities, electrical building, grading and restoration. Because the mandatory pre-bid has passed, subcontractors and suppliers should target eligible primes/plan holders.",
+    "source": "City of Cumming Utilities + ConstructConnect",
+    "url": "https://cummingutilities.com/about/requests-for-proposals-rfps-and-bids/",
+    "verified": "2026-09-06"
+  },
+  {
+    "id": 20,
+    "title": "Heritage Park Design-Build",
+    "city": "Alpharetta, GA",
+    "stage": "Bid Open",
+    "size": "Turnkey downtown passive park design-build",
+    "developer": "City of Alpharetta",
+    "score": 98,
+    "trades": ["Design-Build", "Civil", "Site Work", "Utilities", "Concrete", "Paving", "Landscaping", "Lighting"],
+    "timing": "SOQ remains due September 17, 2026. Best fit is for design-build teams and downstream civil, utilities, hardscape, lighting and landscape partners. Verify addenda and submission requirements in the City vendor system before responding.",
+    "source": "City of Alpharetta procurement / vendor system",
+    "url": "https://mss.alpharetta.ga.us/vss/Vendors/default.aspx",
+    "verified": "2026-09-06"
+  }
+]
